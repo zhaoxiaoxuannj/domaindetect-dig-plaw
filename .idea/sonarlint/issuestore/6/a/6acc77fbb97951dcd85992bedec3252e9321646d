@@ -1,0 +1,46 @@
+
+N
+java:S1135"2Complete the task associated to this TODO comment.(£°§\8öéÁÇ/
+L
+java:S3740"/Provide the parametrized type for this generic.(âğœ×8öéÁÇ/
+^
+java:S1854T"<Remove this useless assignment to local variable "bodyText".(¦ÆğÜøÿÿÿÿ8öéÁÇ/
+>
+java:S1643B"Use a StringBuilder instead.(ÒÜ÷ûüÿÿÿÿ8öéÁÇ/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÅŠö‚üÿÿÿÿ8öéÁÇ/
+=
+java:S21291" Remove this "String" constructor(ÉÌç8öéÁÇ/
+‰
+java:S1130-"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(±ìÀ±8öéÁÇ/
+B
+java:S21290" Remove this "String" constructor(ÀÇô€ıÿÿÿÿ8öéÁÇ/
+]	java:S125"<This block of commented-out lines of code should be removed.(¨Â£ ÿÿÿÿÿ8Ğé½ÅÇ/
+9
+java:S1643L"Use a StringBuilder instead.(º¬ô³8öéÁÇ/
+Q
+java:S3740/"/Provide the parametrized type for this generic.(¡¯µØûÿÿÿÿ8öéÁÇ/
+Q
+java:S3740/"/Provide the parametrized type for this generic.(¡¯µØûÿÿÿÿ8öéÁÇ/
+X	java:S125!"<This block of commented-out lines of code should be removed.(ËÈÒÒ8ğŠ¾ÅÇ/
+‘
+java:S1192O"oDefine a constant instead of duplicating this literal "[^0-9a-zA-Z\u4e00-\u9fa5.ï¼Œã€,ã€‚ï¼Ÿâ€œâ€]+" 4 times.(íİ˜Ûúÿÿÿÿ8öéÁÇ/
+Q
+java:S3740"/Provide the parametrized type for this generic.(ˆûæ¦ûÿÿÿÿ8öéÁÇ/
+L
+java:S3740 "/Provide the parametrized type for this generic.(‰‚Éİ8öéÁÇ/
+L
+java:S3740-"/Provide the parametrized type for this generic.(±ìÀ±8öéÁÇ/
+>
+java:S1643="Use a StringBuilder instead.(Çñ½Åûÿÿÿÿ8öéÁÇ/
+W	java:S125"<This block of commented-out lines of code should be removed.(­äÛ88Ğé½ÅÇ/
+9
+java:S1643G"Use a StringBuilder instead.(Üòğï8öéÁÇ/
+=
+java:S21292" Remove this "String" constructor(¯¢Ú8öéÁÇ/
+=
+java:S21293" Remove this "String" constructor(‘æ‘è8öéÁÇ/
+O
+java:S3416"-Update this logger to use "HtmlGetter.class".(û²‘şıÿÿÿÿ8©Á¦ÇÇ/
+^
+java:S3457'"AFormat specifiers should be used instead of string concatenation.(‘ÚÎŸ8©Á¦ÇÇ/

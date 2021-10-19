@@ -1,0 +1,4 @@
+nohup java -Xdebug -jar  domaindetect3_jar/domaindetect3.jar /root/python/source_cdn5.txt /root/python/result5.txt /root/python/shell.sh &
+参数1:待检测的文本内容
+参数2:结果文件
+参数3:dig脚本文件，输出的是ip地址

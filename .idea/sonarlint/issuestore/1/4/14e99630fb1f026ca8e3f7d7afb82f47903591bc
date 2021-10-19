@@ -1,0 +1,25 @@
+
+Q
+java:S37404"/Provide the parametrized type for this generic.(ÅŸ¥×üÿÿÿÿ8Ä½¢ÇÇ/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8ùøÆÇ/
+T
+java:S2629#"7Use the built-in formatting to construct this argument.(ìùå8¶Ú ÇÇ/
+c
+java:S3457L"AFormat specifiers should be used instead of string concatenation.(îÄ “ùÿÿÿÿ8Ä½¢ÇÇ/
+^
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(ìùå8¶Ú ÇÇ/
+^
+java:S3457D"AFormat specifiers should be used instead of string concatenation.(œò¢8Ä½¢ÇÇ/
+^
+java:S3457'"AFormat specifiers should be used instead of string concatenation.(ÌöÀ²8Ä½¢ÇÇ/
+n
+java:S2095 "LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(úş¾†øÿÿÿÿ8¾‰üÂÇ/
+[
+java:S11555">Use isEmpty() to check whether the collection is empty or not.(ÉÜá8Ä½¢ÇÇ/
+h
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(×äği8¾‰üÂÇ/
+^
+java:S34571"AFormat specifiers should be used instead of string concatenation.(´–‘ä8Ä½¢ÇÇ/
+Q
+java:S37409"/Provide the parametrized type for this generic.(×óôûÿÿÿÿ8Ä½¢ÇÇ/
